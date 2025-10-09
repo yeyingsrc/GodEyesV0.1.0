@@ -14,7 +14,7 @@
 压缩包解压以后，放到常用路径下，避免误删。
 
 1、点击进入"管理扩展程序"
-<img width="1103" height="1283" alt="image" src="https://github.com/user-attachments/assets/49c42918-1efd-432a-8721-55f2828183b3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/49c42918-1efd-432a-8721-55f2828183b3" />
 2、打开 "开发者模式" 后点击 "加载未打包的扩展程序"，或者找到GodEyes文件直接拖到页面也可以
 <img width="3056" height="1619" alt="image" src="https://github.com/user-attachments/assets/3925e0ae-7736-4175-96f2-0de236078a1f" />
 <img width="469" height="61" alt="image" src="https://github.com/user-attachments/assets/7b48e63c-9298-4bc4-a469-87c361d4895e" />
